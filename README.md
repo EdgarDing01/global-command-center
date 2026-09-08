@@ -82,4 +82,4 @@ next.config.ts           GitHub Pages 路径和静态导出配置
 
 ## License
 
-仅用于内部产品原型与技术验证。生产使用前请补充组织适用的许可证和数据合规说明。
+本项目使用 [MIT License](./LICENSE) 开源。
