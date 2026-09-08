@@ -5,7 +5,6 @@
 ## 在线访问
 
 - GitHub Pages：<https://EdgarDing01.github.io/global-command-center/>
-- 私有 Sites 版本：<https://global-command-center.edgarran2025.chatgpt.site/>
 
 > 当前页面使用隔离演示数据。接入生产环境前，需要替换数据接口并完成财务口径、权限和目标硬件验收。
 
